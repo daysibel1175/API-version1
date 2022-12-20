@@ -1,0 +1,19 @@
+
+{
+  "name": "API-version1",
+  "version": "1.0.0",
+  "description": "Projeto de mulheres.",
+  "main": "./src/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/script.js"
+  },
+  "author": "Daysibel Cotiz e Nailen Aguiar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "i": "^0.3.7",
+    "mongoose": "^6.8.1",
+    "nodemon": "^2.0.20"
+  }
+}
